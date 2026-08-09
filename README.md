@@ -1,5 +1,11 @@
 ![CI](https://github.com/med-baha/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
+<<<<<<< HEAD
+
+# learn-cicd-starter (Notely)
+
+=======
+>>>>>>> fa86bc9 (resolving formatting problem)
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ## Local Development
